@@ -1,4 +1,3 @@
-### Hi there 👋
 OVERVIEW
 ===================================================================================================================
 A parts pack containing the parts needed to create Rocket Factory Augsburg's RFA One rocket
